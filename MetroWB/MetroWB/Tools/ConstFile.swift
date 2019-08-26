@@ -17,7 +17,7 @@ class ConstFile {
     public static var StatusBarH:CGFloat = UIApplication.shared.statusBarFrame.height
     
     /// 微博开放平台数据key 日记 2078810601
-    public static var sina_app_key = "3154563018"//"125925976"//
+    public static var sina_app_key = "你自己的appkey"
     /// 授权url
     public static var AouthUrl = "https://api.weibo.com/oauth2/default.html"
     /// 查询用户详情 需要uid
