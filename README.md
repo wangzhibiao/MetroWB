@@ -31,5 +31,4 @@
 
 ![效果图](https://github.com/wangzhibiao/MetroWB/blob/master/MetroWB/MetroWB/readmesrc/WechatIMG20.jpeg)
 
-![效果图](https://github.com/wangzhibiao/MetroWB/blob/master/MetroWB/MetroWB/readmesrc/WechatIMG21.jpeg)
 
