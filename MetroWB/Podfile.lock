@@ -1,0 +1,145 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AutoInsetter (1.7.0)
+  - Bugly (2.5.0)
+  - HandyJSON (5.0.0)
+  - JXPhotoBrowser (2.2.3):
+    - JXPhotoBrowser/Kingfisher (= 2.2.3)
+  - JXPhotoBrowser/Core (2.2.3)
+  - JXPhotoBrowser/Kingfisher (2.2.3):
+    - JXPhotoBrowser/Core
+    - Kingfisher
+  - Kingfisher (5.5.0)
+  - Material (3.1.3):
+    - Material/Core (= 3.1.3)
+  - Material/Core (3.1.3):
+    - Motion (~> 3.1.0)
+  - MJRefresh (3.1.16)
+  - MobilePlayer (1.3.0)
+  - Motion (3.1.1):
+    - Motion/Core (= 3.1.1)
+  - Motion/Core (3.1.1)
+  - Pageboy (3.2.0)
+  - PINCache (3.0.1-beta.6):
+    - PINCache/Arc-exception-safe (= 3.0.1-beta.6)
+    - PINCache/Core (= 3.0.1-beta.6)
+  - PINCache/Arc-exception-safe (3.0.1-beta.6):
+    - PINCache/Core
+  - PINCache/Core (3.0.1-beta.6):
+    - PINOperation (~> 1.1.0)
+  - PINOperation (1.1.1)
+  - PINRemoteImage/Core (3.0.0-beta.13):
+    - PINOperation
+  - PINRemoteImage/iOS (3.0.0-beta.13):
+    - PINRemoteImage/Core
+  - PINRemoteImage/PINCache (3.0.0-beta.13):
+    - PINCache (= 3.0.1-beta.6)
+    - PINRemoteImage/Core
+  - SnapKit (4.2.0)
+  - SwiftGifOrigin (1.7.0)
+  - SwiftyJSON (4.3.0)
+  - Tabman (2.3.0):
+    - AutoInsetter (~> 1.7)
+    - Pageboy (~> 3.2)
+  - Texture (2.8.1):
+    - Texture/AssetsLibrary (= 2.8.1)
+    - Texture/Core (= 2.8.1)
+    - Texture/MapKit (= 2.8.1)
+    - Texture/Photos (= 2.8.1)
+    - Texture/PINRemoteImage (= 2.8.1)
+    - Texture/Video (= 2.8.1)
+  - Texture/AssetsLibrary (2.8.1):
+    - Texture/Core
+  - Texture/Core (2.8.1)
+  - Texture/MapKit (2.8.1):
+    - Texture/Core
+  - Texture/Photos (2.8.1):
+    - Texture/Core
+  - Texture/PINRemoteImage (2.8.1):
+    - PINRemoteImage/iOS (= 3.0.0-beta.13)
+    - PINRemoteImage/PINCache
+    - Texture/Core
+  - Texture/Video (2.8.1):
+    - Texture/Core
+  - Weibo_SDK (3.2.3)
+  - YYModel (1.0.4)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - Alamofire
+  - Bugly
+  - HandyJSON (~> 5.0.0)
+  - JXPhotoBrowser
+  - Kingfisher
+  - Material
+  - MJRefresh
+  - MobilePlayer
+  - SnapKit
+  - SwiftGifOrigin
+  - SwiftyJSON (~> 4.0)
+  - Tabman
+  - Texture
+  - Weibo_SDK (from `https://github.com/sinaweibosdk/weibo_ios_sdk.git`)
+  - YYModel
+  - YYText
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AutoInsetter
+    - Bugly
+    - HandyJSON
+    - JXPhotoBrowser
+    - Kingfisher
+    - Material
+    - MJRefresh
+    - MobilePlayer
+    - Motion
+    - Pageboy
+    - PINCache
+    - PINOperation
+    - PINRemoteImage
+    - SnapKit
+    - SwiftGifOrigin
+    - SwiftyJSON
+    - Tabman
+    - Texture
+    - YYModel
+    - YYText
+
+EXTERNAL SOURCES:
+  Weibo_SDK:
+    :git: https://github.com/sinaweibosdk/weibo_ios_sdk.git
+
+CHECKOUT OPTIONS:
+  Weibo_SDK:
+    :commit: f5b138320aefe0ed20b76b8510521432f1a6c9ac
+    :git: https://github.com/sinaweibosdk/weibo_ios_sdk.git
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AutoInsetter: 766e76cd41da7026373778524074f9a6b64b24d5
+  Bugly: 3ca9f255c01025582df26f9222893b383c7e4b4e
+  HandyJSON: 992f2d661716d6a91de82d0056927bc7813b5770
+  JXPhotoBrowser: 44657e0dc05a710c6ea86a8b4686badd760760f7
+  Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
+  Material: cb0df3548510db4e6c544fa4a1653795aa3367c9
+  MJRefresh: 7798e16e53a5ef7f332dd05b27664db4e29530fd
+  MobilePlayer: e50e2160830f3db51d6e08067318aec6a9d39408
+  Motion: f115b33f36cc52472a25a965daa89b3859817de0
+  Pageboy: 503fd8d9ed03408d2e651576a59c6188e2bcbf8b
+  PINCache: d195fdba255283f7e9900a55e3cced377f431f9b
+  PINOperation: a6219e6fc9db9c269eb7a7b871ac193bcf400aac
+  PINRemoteImage: d6d51c5d2adda55f1ce30c96e850b6c4ebd2856a
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Tabman: 0152bf356e9a0a49821cbb38ddd8593e49ef00bf
+  Texture: 8ecf6984065a1e54f06bf97b349ecca28582acd7
+  Weibo_SDK: 652ca78c2f7147a5de5e75e7cbea89838a81772a
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: e61bd460566be054e66ffb4c10657a9e3fbd48ae
+
+COCOAPODS: 1.5.3

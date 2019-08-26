@@ -1,0 +1,35 @@
+source 'https://github.com/cocoapods/specs.git'
+platform :ios,'10.0'
+target 'MetroWB' do
+    
+use_frameworks!
+
+pod 'Tabman'
+pod 'SnapKit'
+pod 'Alamofire'
+pod 'Kingfisher'
+#pod 'SVProgressHUD'
+#pod 'SwiftEntryKit', '1.0.1'
+pod 'MJRefresh'
+pod "Weibo_SDK", :git => "https://github.com/sinaweibosdk/weibo_ios_sdk.git"
+pod 'HandyJSON', '~> 5.0.0'
+pod 'SwiftyJSON', '~> 4.0'
+#pod 'NVActivityIndicatorView/AppExtension'
+#pod 'Hero'
+pod 'JXPhotoBrowser'
+pod 'YYText'
+pod 'YYModel'
+pod 'Texture'
+#pod 'UITableView+FDTemplateLayoutCell'
+#pod "PlayerKit"
+pod "Material"
+#pod "Agrume"
+pod "MobilePlayer"
+pod "Bugly"
+#pod "IDMPhotoBrowser"
+#pod "YBImageBrowser"
+#pod "AXPhotoViewer/Nuke"
+#pod "SlidingPhoto"
+#pod "ImageViewer"
+pod "SwiftGifOrigin"
+end
