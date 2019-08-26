@@ -4,7 +4,7 @@
 
 <img src="https://github.com/wangzhibiao/MetroWB/blob/master/MetroWB/MetroWB/readmesrc/WechatIMG21.jpeg" width="30%" height="30%"/>
 
-<a href="https://github.com/wangzhibiao/MetroWB/blob/master/MetroWB/MetroWB/readmesrc/WechatIMG21.jpeg">
+<a href="https://raw.github.com/wangzhibiao/MetroWB/blob/master/MetroWB/MetroWB/readmesrc/WechatIMG21.jpeg">
   <img src="https://github.com/wangzhibiao/MetroWB/blob/master/MetroWB/MetroWB/readmesrc/WechatIMG21.jpeg" width="370" />
 </a>
 
